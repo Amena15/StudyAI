@@ -121,5 +121,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 **Built with ❤️ by Amena**  
-[GitHub](https://github.com/Amena15) • [LinkedIn](#)
+[GitHub](https://github.com/Amena15)
 ```
