@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+motor
+python-dotenv
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+PyPDF2
+youtube-transcript-api
+requests
+Pillow
+google-generativeai
+email-validator
+python-multipart
